@@ -20,3 +20,24 @@
 .App-link {
   color: #09d3ac;
 }
+
+.scoreCard {
+  font-size: 2rem;
+  padding: 10px;
+  color: white;
+  background-color: goldenrod
+}
+
+#scoresDiv {
+  text-align: left;
+  margin-right: 10px;
+  padding: 10%;
+  background-image: url("./Photos/gondor.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-size: contain; */
+}
+
+#comment {
+  color: whitesmoke;
+}
