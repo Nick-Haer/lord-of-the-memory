@@ -6,3 +6,12 @@ img {
     width: 300px;
     padding: 25px;
 }
+
+.char-image {
+    transition: all ease-in 200ms;
+    transform: scale(1);
+}
+
+.char-image:hover {
+    transform: scale(1.1)
+}
