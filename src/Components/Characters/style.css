@@ -6,6 +6,9 @@ img {
     width: 300px;
     padding: 25px;
 }
+body {
+    background-color: white;
+}
 
 .char-image {
     transition: all ease-in 200ms, border-radius 100ms linear;
