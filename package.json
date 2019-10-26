@@ -7,6 +7,10 @@
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
   },
+  "engines": {
+    "npm": "6.11.3",
+    "node": "12.1.0"
+  },  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -27,8 +31,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "engines": {
-    "node": "12.1.0"
   }
 }
